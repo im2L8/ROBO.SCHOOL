@@ -6154,11 +6154,11 @@ textarea.form-control-lg {
   } ]
 } */
 .carousel-control-prev-icon {
-  background-image: url(/img/arrow_left.svg);
+  background-image: url(../img/arrow_left.svg);
 }
 
 .carousel-control-next-icon {
-  background-image: url(/img/arrow_right.svg);
+  background-image: url(../img/arrow_right.svg);
 }
 
 .carousel-indicators {
