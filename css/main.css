@@ -1,0 +1,30 @@
+.hero-sec {
+    background-color: rgb(33, 37, 41);
+}
+
+.big-fig {
+    font-size: 4.375rem;
+    color: #dc3545;
+}
+
+.gain-section {
+    background-color: #F9F9F9;
+}
+
+.extra-info {
+    font-size: 1.125rem;
+    color: #dc3545;
+}
+
+.border-dark {
+    border-radius: 1.25rem;
+    border: 1px solid rgba(20, 16, 36, 0.20);
+}
+
+.red-form {
+    background: #dc3545;
+}
+
+.footer-block {
+    background-color: rgb(33, 37, 41);
+}
